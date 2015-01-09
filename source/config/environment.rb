@@ -4,7 +4,7 @@ require "rspec"
 require "rake"
 require "sqlite3"
 require "pathname"
-
+require "pry"
 
 # Identify the root directory for the application
 # so that we can later reference files from APP_ROOT
